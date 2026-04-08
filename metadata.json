@@ -1,0 +1,7 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "A real-time, sassy, voice-to-voice AI assistant powered by Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
